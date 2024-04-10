@@ -142,8 +142,8 @@ h2{
   
 #lightbox img{
     position: absolute;
-    width: 800px;
-    height: 1400px;
+    width: 27%;
+    height: 90%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
